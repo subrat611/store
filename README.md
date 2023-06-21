@@ -2,7 +2,7 @@
 
 ## 📌 Live Demo
 
-https://RustOnlineStore-ecommerce.onrender.com
+https://rustonlinestore.vercel.app/
 
 ## 😎 Features
 
@@ -25,8 +25,6 @@ https://RustOnlineStore-ecommerce.onrender.com
 From your command line, first clone this repo:
 
 ```
-# Clone this repository
-$ https://github.com/0mar-helal/RustOnlineStore-react-ecommerce.git
 
 # Go into the repository
 $ cd RustOnlineStore-react-ecommerce
